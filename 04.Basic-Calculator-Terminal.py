@@ -3,6 +3,7 @@
 numero1 = int(input("Ingresa Primer Número: "))
 numero2 = int(input("Ingresa Segundo Número: "))
 
+#Basic Math Operations
 suma = numero1 + numero2
 resta = numero1 - numero2
 multiplicacion = numero1 * numero2
