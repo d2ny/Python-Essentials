@@ -1,3 +1,3 @@
 # Python-Essentials
 
-Python Essentials Course
+Python Essentials Course instructed professionally from CPIC
