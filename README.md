@@ -28,9 +28,9 @@ Type Convertions
 Conditionals.
 
 IF:
-if true_or_false_condition:
-    perform_if_condition_true
-else:
-    perform_if_condition_false
+- if true_or_false_condition:
+-     perform_if_condition_true
+- else:
+-     perform_if_condition_false
 
 
