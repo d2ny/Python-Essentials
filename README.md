@@ -21,3 +21,8 @@ Comments in Python
 - You can make single line comments using the character "#"
 - To uncomment comments you can use the keyboard shortcut: CTRL + /
 - Multiline comments can be written using triple quotes (""" multiline comment """)
+
+Type Convertions
+- int()
+- float()
+- str()
