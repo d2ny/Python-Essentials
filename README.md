@@ -9,10 +9,10 @@ The "Print" function contains keywords arguments like:
 - sep: Indicates how to separate the values within the function (print("This","is","a","string",sep="-"))
 
 Arithmetic operators in Python.
-- "+"
-- "-"
-- *
-- /
-- //
-- %
-- **
+- "+" plus sign
+- "-" minus sign
+- "*" multiplication sign
+- "/" division sign
+- "//" division with integer result
+- "%" modulus
+- "**" exponent
