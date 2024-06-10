@@ -29,8 +29,8 @@ Conditionals.
 
 IF:
 - if true_or_false_condition:
--     perform_if_condition_true
+-   perform_if_condition_true
 - else:
--     perform_if_condition_false
+-   perform_if_condition_false
 
 
