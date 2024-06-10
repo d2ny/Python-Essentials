@@ -8,14 +8,12 @@ The "Print" function contains keywords arguments like:
 - end: Indicates how to finish the result of the function (print("This is a string",end=" "))
 - sep: Indicates how to separate the values within the function (print("This","is","a","string",sep="-"))
 
-Arithmetic operators in Python.
-- "+" plus sign
-- "-" minus sign
-- "*" multiplication sign
-- "/" division sign
-- "//" division with integer result
-- "%" modulus
-- "**" exponent
+Arithmetic and Logic Operator Priorities in Python
+1. "+" and "-" (plus and minus)
+2. "**" (exponent)
+3. "*","/","//","%" (multiplication, division, division with integer result, modulus) 
+4. "<","<=",">","=>" (less than, less or equal than, greater than, equal or greater than)
+5. "==","!=" (equal, different)
 
 Comments in Python
 - You can make single line comments using the character "#"
@@ -26,3 +24,6 @@ Type Convertions
 - int()
 - float()
 - str()
+
+
+
