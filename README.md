@@ -20,6 +20,11 @@ The "Print" function contains keywords arguments like:
 - end: Indicates how to finish the result of the function (print("This is a string",end=" "))
 - sep: Indicates how to separate the values within the function (print("This","is","a","string",sep="-"))
 
+Bit to Bit Operators.
+- & (AND)
+- | (OR)
+- ~ (NOT)
+- ^ (XOR Only 1 is True)
 
 Type Convertions
 - int()
